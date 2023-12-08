@@ -30,8 +30,6 @@ Participe de promoções emocionantes, eventos exclusivos e descubra como você 
 
 Explore nossa loja online para adquirir produtos exclusivos Coca-Cola, de colecionáveis a roupas com a marca que você ama.
 
-![Coca-Cola](https://github.com/EduardoDosSantosFerreira/project-coke/raw/main/cokepng.png)
-
 ## Siga-nos nas Redes Sociais
 
 Acompanhe-nos nas redes sociais para ficar atualizado com as últimas novidades, eventos e interagir com a comunidade Coca-Cola. Siga-nos no [Instagram](https://www.instagram.com/cocacola) e curta nossa página no [Facebook](https://www.facebook.com/cocacola).
