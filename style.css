@@ -164,22 +164,20 @@ header .navigation li a {
 .swiper-3d .swiper-slide-shadow-bottom {
   background-image: none;
 }
-  #xxx{
-    color: #e51e2a;
-    font-size: 99px
-
-  }
-  @media (max-width: 991px) {
-  #xxx{
+#xxx {
+  color: #e51e2a;
+  font-size: 99px;
+}
+@media (max-width: 991px) {
+  #xxx {
     color: #ffffff;
-    font-size: 50px
+    font-size: 50px;
   }
 }
 @media (max-width: 991px) {
-  #xxx{
+  #xxx {
     color: #ffffff;
-    font-size: 99px
-    
+    font-size: 99px;
   }
   header {
     padding: 40px;
@@ -254,5 +252,7 @@ header .navigation li a {
 }
 
 .swiper-slide img:hover {
-  transform: scale(1.05); /* Aumenta levemente o tamanho da imagem ao passar o mouse */
+  transform: scale(
+    1.05
+  ); /* Aumenta levemente o tamanho da imagem ao passar o mouse */
 }
